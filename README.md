@@ -291,11 +291,11 @@ Tạo bộ dữ liệu tổng hợp:
 
 Để đặt câu hỏi, báo cáo lỗi hoặc đề xuất:
 
-- **Tác giả:** [translate:Nguyễn Tất Thắng] (B23DCKH107)
-- **Email:** [ThangNT.B23KH107@stu.ptit.edu.vn]
+- **Tác giả:** Nguyễn Tất Thắng
+- **Email:** ThangNT.B23KH107@stu.ptit.edu.vn
 - **Trường:** Học viện Công nghệ Bưu Chính Viễn Thông
 
 ---
 
 *Cập Nhật Lần Cuối: Tháng 12 năm 2025*  
-*Được Tạo Bằng Bởi [translate:Nguyễn Tất Thắng]*
+*Được Tạo Bằng Bởi Nguyễn Tất Thắng*
