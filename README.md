@@ -104,7 +104,6 @@ Dense(64 → 10) → Softmax
 Đầu ra: Logits cho các chữ số 0–9
 ```
 
-**Số Lượng Tham Số:** ~27.000  
 **Hình Dạng Đầu Ra:** (10,)
 
 ---
@@ -129,7 +128,6 @@ Dense(32 → 2) → Softmax
 Đầu ra: [Xác suất Hình chữ nhật, Xác suất Hình tròn]
 ```
 
-**Số Lượng Tham Số:** ~34.000  
 **Hình Dạng Đầu Ra:** (2,)
 
 ---
